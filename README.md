@@ -22,7 +22,7 @@ It can be run from the command or from a desktop launcher.
 
 To run from command line -
 
-put UK-Lotto_Killa.py in your home folder.
+put UK-Lotto-Killa.py in your home folder.
 Open command line and type **python UK-Lotto-Killa.py**
 
 To run from desktop -
