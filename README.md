@@ -18,6 +18,10 @@ The end user also has a Choice to change the urls of any of those buttons to poi
 
 **Installation:** 
 
+If you do not have tkinter installed you will need to do **sudo apt-get install python-tk**
+
+Next do **chmod +x UK-Lotto-Killa.py**
+
 It can be run from the command or from a desktop launcher.
 
 To run from command line -
